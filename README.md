@@ -1,19 +1,20 @@
-A clean, modern, and user-friendly Registration Form built with semantic HTML5 and CSS3. This project focuses on accessibility, form validation, and a responsive layout that works on all devices.
-🚀 Features
-Responsive Design: Optimized for mobile, tablet, and desktop screens.
-Client-side Validation: Uses HTML5 attributes like required, pattern, and type="email".
-User Experience: Includes hover effects, focus states, and clear labels.
-Clean Code: Organized CSS and semantic HTML structure.
+🚀 Key Features:-
 
-🛠️ Technologies Used
-HTML5: Structure and form elements.
-CSS3: Flexbox/Grid layout and custom styling.
-Google Fonts: (e.g., Roboto or Inter) for modern typography.
+Fully Responsive: Seamlessly adjusts for mobile, tablet, and desktop views using CSS Media Queries.
 
+Semantic HTML5: Built using proper tags like <fieldset>, <legend>, and <label> for better SEO and Screen Reader support.
 
-📂 Project Structure
+Real-time Validation: Utilizes HTML5 built-in validation (e.g., required, minlength, pattern, type="email").
 
-registration-form/
-├── index.html        # Main HTML file
-├── style.css         # Styling and layout
-└── README.md         # Project documentation
+Interactive UI: Includes custom hover effects, focus states for inputs, and smooth transitions.
+
+Clean Architecture: Separates concerns with dedicated files for structure (HTML) and style (CSS).
+
+🛠️ Built With:-
+
+HTML5: Structure and content.
+CSS3: Flexbox/Grid for layout and custom animations.
+
+Google Fonts: (Specify font used, e.g., Inter or Poppins).
+
+FontAwesome: (Optional) For icons in the input fields.
