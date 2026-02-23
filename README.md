@@ -2,7 +2,7 @@
 
 Fully Responsive: Seamlessly adjusts for mobile, tablet, and desktop views using CSS Media Queries.
 
-Semantic HTML5: Built using proper tags like <fieldset>, <legend>, and <label> for better SEO and Screen Reader support.
+Semantic HTML5: Built using proper tags like fieldset, legend, and label for better SEO and Screen Reader support.
 
 Real-time Validation: Utilizes HTML5 built-in validation (e.g., required, minlength, pattern, type="email").
 
